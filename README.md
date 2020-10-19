@@ -22,7 +22,7 @@ So, it is a great resource for making platform to show connections between many 
 2. Setup the master node according to this [article](https://blog.insightdatascience.com/simply-install-spark-cluster-mode-341843a52b88).
 ## Project Details
 
-![Data Pipeline](docs/images/data_pipeline.png)
+![Data Pipeline](docs/images/data_pipline.png)
 ![UI result] (docs/images/UI.png)
 
 Big Data challenge 
