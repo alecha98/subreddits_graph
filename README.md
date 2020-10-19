@@ -21,19 +21,22 @@ So, it is a great resource for making platform to show connections between many 
 1. Install prerequisites and Spark binaries on the master and worker nodes
 2. Setup the master node according to this [article](https://blog.insightdatascience.com/simply-install-spark-cluster-mode-341843a52b88).
 ## Project Details
-Data pipeline
+###Data pipeline
+
 ![Data Pipeline](docs/images/data_pipline.png)
 
-Visualization
+###Visualization
+
 ![UI result](docs/images/UI.png)
 
-Full graph with edges
+###Full graph with edges
+
 ![UI result](docs/images/with_edges.png)
 
 
-Big Data challenge 
-#    Improve formula
-#    Indexing
+##Big Data challenge 
+###    Improve formula
+###    Indexing
 
 ### The Data
 The data is the daily post data for December 2019 downloaded from [pushshift](https://files.pushshift.io/reddit/daily/). The data is stored in JSON format. The files are stored in an AWS S3 bucket.
