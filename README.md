@@ -36,7 +36,11 @@ So, it is a great resource for making platform to show connections between many 
 
 ## Big Data challenge 
 ###    Improve formula
+I've improved formula to count distance between edges, so I can reuse some information instead counting new
+![first](docs/images/first.png)
 ###    Indexing
+I've put all metadata directly to postgres, and worked in sparkjob only with numbers.
+![sec](docs/images/second.png)
 
 ### The Data
 The data is the daily post data for December 2019 downloaded from [pushshift](https://files.pushshift.io/reddit/daily/). The data is stored in JSON format. The files are stored in an AWS S3 bucket.
