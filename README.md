@@ -23,7 +23,8 @@ So, it is a great resource for making platform to show connections between many 
 ## Project Details
 
 ![Data Pipeline](docs/images/data_pipline.png)
-![UI result] (docs/images/UI.png)
+![UI result](docs/images/UI.png)
+
 
 Big Data challenge 
 #    Improve formula
