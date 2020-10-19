@@ -21,9 +21,14 @@ So, it is a great resource for making platform to show connections between many 
 1. Install prerequisites and Spark binaries on the master and worker nodes
 2. Setup the master node according to this [article](https://blog.insightdatascience.com/simply-install-spark-cluster-mode-341843a52b88).
 ## Project Details
-
+Data pipeline
 ![Data Pipeline](docs/images/data_pipline.png)
+
+Visualization
 ![UI result](docs/images/UI.png)
+
+Full graph with edges
+![UI result](docs/images/with_edges.png)
 
 
 Big Data challenge 
