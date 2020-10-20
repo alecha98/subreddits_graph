@@ -12,6 +12,8 @@ Platform for showing connections between subreddits
 Reddit, the self-proclaimed "front page of the internet", is the sixth most popular website in the US, and has on average 21 billion screen views per month. This is prime real estate for advertising. Adverstisers want to maximize the reach of their advertisements, either by advertising early on posts that are engaging, or commenting on these posts early to maximize user interaction.
 
 So, it is a great resource for making platform to show connections between many popular topics. This will help for marketing targeting the audience for new product.
+
+To understand the visualised information: subreddits with larger amount of the same aythors of comments closer to each other, then those wicth have small amount of common authors.
 ## Quickstart Guide
 ### Postgresql
 1. Install Postgresql and setup the database for remote access.
